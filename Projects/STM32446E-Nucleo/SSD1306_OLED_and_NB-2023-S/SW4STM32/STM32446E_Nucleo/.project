@@ -373,7 +373,7 @@
 		<link>
 			<name>Example/User/NB-2023-S/nb2023s.c</name>
 			<type>1</type>
-			<locationURI>PARENT-2-PROJECT_LOC/Src/NB-2023-S/stm32f429_discovery_bsp.c</locationURI>
+			<location>/home/starivore/Workspace/GitHub/HardwareWallet/Projects/STM32446E-Nucleo/SSD1306_OLED_and_NB-2023-S/Src/NB-2023-S/nb2023s.c</location>
 		</link>
 		<link>
 			<name>Example/User/NB-2023-S/syscalls.c</name>

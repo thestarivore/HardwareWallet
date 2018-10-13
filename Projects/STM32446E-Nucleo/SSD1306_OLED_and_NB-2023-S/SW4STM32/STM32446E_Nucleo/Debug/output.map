@@ -17030,249 +17030,249 @@ Discarded input sections
  .text          0x0000000000000000       0x14 Example/SW4STM32/startup_stm32f446xx.o
  .data          0x0000000000000000        0x0 Example/SW4STM32/startup_stm32f446xx.o
  .bss           0x0000000000000000        0x0 Example/SW4STM32/startup_stm32f446xx.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .group         0x0000000000000000        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .text          0x0000000000000000        0x0 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .data          0x0000000000000000        0x0 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .bss           0x0000000000000000        0x0 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .group         0x0000000000000000        0xc Example/User/NB-2023-S/nb2023s.o
+ .text          0x0000000000000000        0x0 Example/User/NB-2023-S/nb2023s.o
+ .data          0x0000000000000000        0x0 Example/User/NB-2023-S/nb2023s.o
+ .bss           0x0000000000000000        0x0 Example/User/NB-2023-S/nb2023s.o
  .text.NB_Delay_s
-                0x0000000000000000        0xa Example/User/NB-2023-S/stm32f429_discovery_bsp.o
+                0x0000000000000000        0xa Example/User/NB-2023-S/nb2023s.o
  .text.NB_Delay_us
-                0x0000000000000000        0x4 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
+                0x0000000000000000        0x4 Example/User/NB-2023-S/nb2023s.o
  .text.NB_Module_nRST_High
-                0x0000000000000000       0x10 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
+                0x0000000000000000       0x10 Example/User/NB-2023-S/nb2023s.o
  .text.NB_Module_nRST_Low
-                0x0000000000000000       0x10 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
+                0x0000000000000000       0x10 Example/User/NB-2023-S/nb2023s.o
  .text.NB_AWAKE_pin_isSET
-                0x0000000000000000       0x10 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
+                0x0000000000000000       0x10 Example/User/NB-2023-S/nb2023s.o
  .text.NB_HAL_GetTick
-                0x0000000000000000        0x4 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
+                0x0000000000000000        0x4 Example/User/NB-2023-S/nb2023s.o
  .text.NB_GetTick
-                0x0000000000000000        0x4 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000      0xa7e Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000       0x2c Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000       0x28 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000       0x22 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000       0x87 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000       0x58 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000      0x174 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000      0x30a Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000       0x16 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000       0x17 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000       0x35 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000       0xf1 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000      0x118 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000       0x4b Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000       0x10 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000       0xe3 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000       0x6a Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000      0x1df Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000       0x35 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000       0x50 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000      0xe66 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000    0x16607 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000       0x43 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000      0x15e Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000     0x3535 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000       0xa2 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000       0x16 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000       0x35 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000       0x10 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000       0x58 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000       0x1f Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000       0x43 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000       0x20 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000      0x18e Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000       0x10 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000       0x1c Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000       0x52 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000       0x40 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000       0x10 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000       0x40 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000       0xd7 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000       0x1c Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000       0x3d Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000       0x16 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000      0x16f Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000       0x5e Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000      0xc90 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000      0xa02 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000      0x11e Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000      0x1a0 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000       0x27 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000      0x287 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000       0x5f Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000      0x23a Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000      0x391 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000      0x17d Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000       0xf9 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000      0x3f3 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000       0x23 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000       0xe6 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000       0xa1 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000       0x3c Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000       0x81 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000      0x1cd Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000      0x13a Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000      0x29c Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000       0x2e Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000      0x54a Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000       0x88 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000       0xea Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000       0x10 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000      0x1a7 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000       0x22 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000       0xa5 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000      0x1a0 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000       0x3c Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000       0x79 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000      0x11e Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000       0xe8 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000       0x89 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000      0x31a Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000      0x409 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000       0xe4 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000      0x383 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000       0x28 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000       0xc8 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000      0x81b Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000      0x198 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000      0x202 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000      0x6e0 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000       0x60 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000      0x14d Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000      0x287 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000      0x225 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000      0x1b5 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000      0x2db Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000       0x89 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000      0x1df Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000      0x115 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000       0x6e Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000      0x2e2 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000      0x2e2 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000      0x209 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000       0x34 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000       0x90 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000      0x1ed Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000000000      0x12d Example/User/NB-2023-S/stm32f429_discovery_bsp.o
+                0x0000000000000000        0x4 Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000      0xa7e Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000       0x2c Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000       0x28 Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000       0x22 Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000       0x87 Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000       0x58 Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000      0x174 Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000      0x30a Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000       0x16 Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000       0x17 Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000       0x35 Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000       0xf1 Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000      0x118 Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000       0x4b Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000       0x10 Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000       0xe3 Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000       0x6a Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000      0x1df Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000       0x35 Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000       0x50 Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000      0xe66 Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000    0x16607 Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000       0x43 Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000      0x15e Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000     0x3535 Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000       0xa2 Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000       0x16 Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000       0x35 Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000       0x10 Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000       0x58 Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000       0x1f Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000       0x43 Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000       0x20 Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000      0x18e Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000       0x10 Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000       0x1c Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000       0x52 Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000       0x40 Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000       0x10 Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000       0x40 Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000       0xd7 Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000       0x1c Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000       0x3d Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000       0x16 Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000      0x16f Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000       0x5e Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000      0xc90 Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000      0xa02 Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000      0x11e Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000      0x1a0 Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000       0x27 Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000      0x287 Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000       0x5f Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000      0x23a Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000      0x391 Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000      0x17d Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000       0xf9 Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000      0x3f3 Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000       0x23 Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000       0xe6 Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000       0xa1 Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000       0x3c Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000       0x81 Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000      0x1cd Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000      0x13a Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000      0x29c Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000       0x2e Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000      0x54a Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000       0x88 Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000       0xea Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000       0x10 Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000      0x1a7 Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000       0x22 Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000       0xa5 Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000      0x1a0 Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000       0x3c Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000       0x79 Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000      0x11e Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000       0xe8 Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000       0x89 Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000      0x31a Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000      0x409 Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000       0xe4 Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000      0x383 Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000       0x28 Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000       0xc8 Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000      0x81b Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000      0x198 Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000      0x202 Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000      0x6e0 Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000       0x60 Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000      0x14d Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000      0x287 Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000      0x225 Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000      0x1b5 Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000      0x2db Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000       0x89 Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000      0x1df Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000      0x115 Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000       0x6e Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000      0x2e2 Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000      0x2e2 Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000      0x209 Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000       0x34 Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000       0x90 Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000      0x1ed Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000000000      0x12d Example/User/NB-2023-S/nb2023s.o
  .group         0x0000000000000000        0xc Example/User/NB-2023-S/syscalls.o
  .group         0x0000000000000000        0xc Example/User/NB-2023-S/syscalls.o
  .group         0x0000000000000000        0xc Example/User/NB-2023-S/syscalls.o
@@ -18771,7 +18771,7 @@ LOAD Drivers/STM32F4xx_HAL_Driver/stm32f4xx_ll_fsmc.o
 LOAD Drivers/STM32F4xx_HAL_Driver/stm32f4xx_ll_sdmmc.o
 LOAD Drivers/STM32F4xx_HAL_Driver/stm32f4xx_ll_usb.o
 LOAD Example/SW4STM32/startup_stm32f446xx.o
-LOAD Example/User/NB-2023-S/stm32f429_discovery_bsp.o
+LOAD Example/User/NB-2023-S/nb2023s.o
 LOAD Example/User/NB-2023-S/syscalls.o
 LOAD Example/User/SSD1306_OLED/ssd1306.o
 LOAD Example/User/SSD1306_OLED/ssd1306_fonts.o
@@ -19226,36 +19226,36 @@ LOAD /home/starivore/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-no
                 0x000000000800b104                DMA1_Stream3_IRQHandler
                 0x000000000800b104                FMPI2C1_Error_IRQHandler
  .text.NBDeviceGetTimestamp
-                0x000000000800b106       0x16 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
+                0x000000000800b106       0x16 Example/User/NB-2023-S/nb2023s.o
                 0x000000000800b106                NBDeviceGetTimestamp
  .text.NBDeviceAwakeGetValueInternal
-                0x000000000800b11c       0x28 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
+                0x000000000800b11c       0x28 Example/User/NB-2023-S/nb2023s.o
                 0x000000000800b11c                NBDeviceAwakeGetValueInternal
  .text.DWT_Delay_us
-                0x000000000800b144       0x30 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
+                0x000000000800b144       0x30 Example/User/NB-2023-S/nb2023s.o
  .text.NBDeviceDelayMicrosecondsInternal
-                0x000000000800b174        0xc Example/User/NB-2023-S/stm32f429_discovery_bsp.o
+                0x000000000800b174        0xc Example/User/NB-2023-S/nb2023s.o
                 0x000000000800b174                NBDeviceDelayMicrosecondsInternal
  .text.DeviceInit
-                0x000000000800b180       0x98 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
+                0x000000000800b180       0x98 Example/User/NB-2023-S/nb2023s.o
                 0x000000000800b180                DeviceInit
  .text.NB_SPI_ReadWriteBuffer
-                0x000000000800b218       0x44 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
+                0x000000000800b218       0x44 Example/User/NB-2023-S/nb2023s.o
                 0x000000000800b218                NB_SPI_ReadWriteBuffer
  .text.NBDeviceSendReceiveDataInternal
-                0x000000000800b25c       0x24 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
+                0x000000000800b25c       0x24 Example/User/NB-2023-S/nb2023s.o
                 0x000000000800b25c                NBDeviceSendReceiveDataInternal
  .text.NB_Delay_ms
-                0x000000000800b280       0x30 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
+                0x000000000800b280       0x30 Example/User/NB-2023-S/nb2023s.o
                 0x000000000800b280                NB_Delay_ms
  .text.DWT_Delay_Init
-                0x000000000800b2b0       0x40 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
+                0x000000000800b2b0       0x40 Example/User/NB-2023-S/nb2023s.o
                 0x000000000800b2b0                DWT_Delay_Init
  .text.NB_Module_nRST
-                0x000000000800b2f0       0x10 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
+                0x000000000800b2f0       0x10 Example/User/NB-2023-S/nb2023s.o
                 0x000000000800b2f0                NB_Module_nRST
  .text.NBDeviceResetSetValueInternal
-                0x000000000800b300       0x18 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
+                0x000000000800b300       0x18 Example/User/NB-2023-S/nb2023s.o
                 0x000000000800b300                NBDeviceResetSetValueInternal
  .text._sbrk    0x000000000800b318       0x1c Example/User/NB-2023-S/syscalls.o
                 0x000000000800b318                _sbrk
@@ -19616,7 +19616,7 @@ LOAD /home/starivore/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-no
  .ARM.attributes
                 0x0000000000000290       0x21 Example/SW4STM32/startup_stm32f446xx.o
  .ARM.attributes
-                0x00000000000002b1       0x39 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
+                0x00000000000002b1       0x39 Example/User/NB-2023-S/nb2023s.o
  .ARM.attributes
                 0x00000000000002ea       0x39 Example/User/NB-2023-S/syscalls.o
  .ARM.attributes
@@ -19707,7 +19707,7 @@ OUTPUT(STM32446E_Nucleo.elf elf32-littlearm)
  .debug_info    0x000000000000a57a     0x3b83 Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_tim.o
  .debug_info    0x000000000000e0fd     0x19ac Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_tim_ex.o
  .debug_info    0x000000000000faa9       0x22 Example/SW4STM32/startup_stm32f446xx.o
- .debug_info    0x000000000000facb     0x20dd Example/User/NB-2023-S/stm32f429_discovery_bsp.o
+ .debug_info    0x000000000000facb     0x20dd Example/User/NB-2023-S/nb2023s.o
  .debug_info    0x0000000000011ba8      0xca3 Example/User/NB-2023-S/syscalls.o
  .debug_info    0x000000000001284b     0x1733 Example/User/SSD1306_OLED/ssd1306.o
  .debug_info    0x0000000000013f7e      0x1a3 Example/User/SSD1306_OLED/ssd1306_fonts.o
@@ -19727,7 +19727,7 @@ OUTPUT(STM32446E_Nucleo.elf elf32-littlearm)
  .debug_abbrev  0x000000000000198a      0x3f2 Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_tim.o
  .debug_abbrev  0x0000000000001d7c      0x33f Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_tim_ex.o
  .debug_abbrev  0x00000000000020bb       0x12 Example/SW4STM32/startup_stm32f446xx.o
- .debug_abbrev  0x00000000000020cd      0x3e6 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
+ .debug_abbrev  0x00000000000020cd      0x3e6 Example/User/NB-2023-S/nb2023s.o
  .debug_abbrev  0x00000000000024b3      0x269 Example/User/NB-2023-S/syscalls.o
  .debug_abbrev  0x000000000000271c      0x32e Example/User/SSD1306_OLED/ssd1306.o
  .debug_abbrev  0x0000000000002a4a       0xa1 Example/User/SSD1306_OLED/ssd1306_fonts.o
@@ -19746,7 +19746,7 @@ OUTPUT(STM32446E_Nucleo.elf elf32-littlearm)
  .debug_loc     0x0000000000001f89     0x1624 Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_spi.o
  .debug_loc     0x00000000000035ad     0x2f91 Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_tim.o
  .debug_loc     0x000000000000653e      0x834 Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_tim_ex.o
- .debug_loc     0x0000000000006d72      0x4ca Example/User/NB-2023-S/stm32f429_discovery_bsp.o
+ .debug_loc     0x0000000000006d72      0x4ca Example/User/NB-2023-S/nb2023s.o
  .debug_loc     0x000000000000723c       0xf2 Example/User/NB-2023-S/syscalls.o
  .debug_loc     0x000000000000732e      0x230 Example/User/SSD1306_OLED/ssd1306.o
  .debug_loc     0x000000000000755e      0x291 Example/User/main.o
@@ -19776,7 +19776,7 @@ OUTPUT(STM32446E_Nucleo.elf elf32-littlearm)
  .debug_aranges
                 0x0000000000000860       0x28 Example/SW4STM32/startup_stm32f446xx.o
  .debug_aranges
-                0x0000000000000888       0xa0 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
+                0x0000000000000888       0xa0 Example/User/NB-2023-S/nb2023s.o
  .debug_aranges
                 0x0000000000000928       0x58 Example/User/NB-2023-S/syscalls.o
  .debug_aranges
@@ -19802,7 +19802,7 @@ OUTPUT(STM32446E_Nucleo.elf elf32-littlearm)
  .debug_ranges  0x0000000000000650      0x330 Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_tim.o
  .debug_ranges  0x0000000000000980       0xe0 Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_tim_ex.o
  .debug_ranges  0x0000000000000a60       0x20 Example/SW4STM32/startup_stm32f446xx.o
- .debug_ranges  0x0000000000000a80       0x90 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
+ .debug_ranges  0x0000000000000a80       0x90 Example/User/NB-2023-S/nb2023s.o
  .debug_ranges  0x0000000000000b10       0x48 Example/User/NB-2023-S/syscalls.o
  .debug_ranges  0x0000000000000b58       0x58 Example/User/SSD1306_OLED/ssd1306.o
  .debug_ranges  0x0000000000000bb0      0x108 Example/User/main.o
@@ -19927,19 +19927,19 @@ OUTPUT(STM32446E_Nucleo.elf elf32-littlearm)
  .debug_macro   0x0000000000026814      0x55b Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_spi.o
  .debug_macro   0x0000000000026d6f      0x553 Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_tim.o
  .debug_macro   0x00000000000272c2      0x553 Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_tim_ex.o
- .debug_macro   0x0000000000027815      0x624 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000027e39       0x2e Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000027e67       0x4c Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000027eb3       0x51 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000027f04      0x14c Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000028050       0x17 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000028067       0x28 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x000000000002808f       0x64 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x00000000000280f3       0x16 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000028109       0x16 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x000000000002811f       0x29 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x0000000000028148       0x16 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_macro   0x000000000002815e      0x1e1 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
+ .debug_macro   0x0000000000027815      0x624 Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000027e39       0x2e Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000027e67       0x4c Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000027eb3       0x51 Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000027f04      0x14c Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000028050       0x17 Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000028067       0x28 Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x000000000002808f       0x64 Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x00000000000280f3       0x16 Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000028109       0x16 Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x000000000002811f       0x29 Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x0000000000028148       0x16 Example/User/NB-2023-S/nb2023s.o
+ .debug_macro   0x000000000002815e      0x1e1 Example/User/NB-2023-S/nb2023s.o
  .debug_macro   0x000000000002833f      0x21f Example/User/NB-2023-S/syscalls.o
  .debug_macro   0x000000000002855e       0x52 Example/User/NB-2023-S/syscalls.o
  .debug_macro   0x00000000000285b0       0x8d Example/User/NB-2023-S/syscalls.o
@@ -19962,7 +19962,7 @@ OUTPUT(STM32446E_Nucleo.elf elf32-littlearm)
  .debug_macro   0x0000000000029978      0x553 Example/User/stm32f4xx_hal_msp.o
  .debug_macro   0x0000000000029ecb      0x56c Example/User/stm32f4xx_it.o
 
-.debug_line     0x0000000000000000    0x10e82
+.debug_line     0x0000000000000000    0x10e72
  .debug_line    0x0000000000000000      0xdd1 Drivers/CMSIS/system_stm32f4xx.o
  .debug_line    0x0000000000000dd1      0xf4c Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal.o
  .debug_line    0x0000000000001d1d      0xfda Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_cortex.o
@@ -19974,15 +19974,15 @@ OUTPUT(STM32446E_Nucleo.elf elf32-littlearm)
  .debug_line    0x0000000000008717     0x1bd9 Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_tim.o
  .debug_line    0x000000000000a2f0     0x1153 Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_tim_ex.o
  .debug_line    0x000000000000b443       0xe2 Example/SW4STM32/startup_stm32f446xx.o
- .debug_line    0x000000000000b525     0x10f4 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
- .debug_line    0x000000000000c619      0x5dd Example/User/NB-2023-S/syscalls.o
- .debug_line    0x000000000000cbf6      0xf65 Example/User/SSD1306_OLED/ssd1306.o
- .debug_line    0x000000000000db5b      0x4e9 Example/User/SSD1306_OLED/ssd1306_fonts.o
- .debug_line    0x000000000000e044     0x1187 Example/User/main.o
- .debug_line    0x000000000000f1cb      0xe6d Example/User/stm32f4xx_hal_msp.o
- .debug_line    0x0000000000010038      0xe4a Example/User/stm32f4xx_it.o
+ .debug_line    0x000000000000b525     0x10e4 Example/User/NB-2023-S/nb2023s.o
+ .debug_line    0x000000000000c609      0x5dd Example/User/NB-2023-S/syscalls.o
+ .debug_line    0x000000000000cbe6      0xf65 Example/User/SSD1306_OLED/ssd1306.o
+ .debug_line    0x000000000000db4b      0x4e9 Example/User/SSD1306_OLED/ssd1306_fonts.o
+ .debug_line    0x000000000000e034     0x1187 Example/User/main.o
+ .debug_line    0x000000000000f1bb      0xe6d Example/User/stm32f4xx_hal_msp.o
+ .debug_line    0x0000000000010028      0xe4a Example/User/stm32f4xx_it.o
 
-.debug_str      0x0000000000000000    0xf539f
+.debug_str      0x0000000000000000    0xf538f
  .debug_str     0x0000000000000000    0xedf4a Drivers/CMSIS/system_stm32f4xx.o
                                       0xee2e0 (size before relaxing)
  .debug_str     0x00000000000edf4a      0xb7f Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal.o
@@ -20005,19 +20005,19 @@ OUTPUT(STM32446E_Nucleo.elf elf32-littlearm)
                                       0xeeb92 (size before relaxing)
  .debug_str     0x00000000000f1876       0x93 Example/SW4STM32/startup_stm32f446xx.o
                                         0x118 (size before relaxing)
- .debug_str     0x00000000000f1909     0x2144 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
-                                      0xf09f7 (size before relaxing)
- .debug_str     0x00000000000f3a4d      0x6cf Example/User/NB-2023-S/syscalls.o
+ .debug_str     0x00000000000f1909     0x2134 Example/User/NB-2023-S/nb2023s.o
+                                      0xf09e7 (size before relaxing)
+ .debug_str     0x00000000000f3a3d      0x6cf Example/User/NB-2023-S/syscalls.o
                                        0x7d8b (size before relaxing)
- .debug_str     0x00000000000f411c      0x314 Example/User/SSD1306_OLED/ssd1306.o
+ .debug_str     0x00000000000f410c      0x314 Example/User/SSD1306_OLED/ssd1306.o
                                       0xee867 (size before relaxing)
- .debug_str     0x00000000000f4430       0x9e Example/User/SSD1306_OLED/ssd1306_fonts.o
+ .debug_str     0x00000000000f4420       0x9e Example/User/SSD1306_OLED/ssd1306_fonts.o
                                        0x56eb (size before relaxing)
- .debug_str     0x00000000000f44ce      0xce0 Example/User/main.o
+ .debug_str     0x00000000000f44be      0xce0 Example/User/main.o
                                       0xf1b7c (size before relaxing)
- .debug_str     0x00000000000f51ae       0x87 Example/User/stm32f4xx_hal_msp.o
+ .debug_str     0x00000000000f519e       0x87 Example/User/stm32f4xx_hal_msp.o
                                       0xeeeca (size before relaxing)
- .debug_str     0x00000000000f5235      0x16a Example/User/stm32f4xx_it.o
+ .debug_str     0x00000000000f5225      0x16a Example/User/stm32f4xx_it.o
                                       0xee98c (size before relaxing)
 
 .comment        0x0000000000000000       0x7e
@@ -20032,7 +20032,7 @@ OUTPUT(STM32446E_Nucleo.elf elf32-littlearm)
  .comment       0x000000000000007e       0x7f Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_spi.o
  .comment       0x000000000000007e       0x7f Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_tim.o
  .comment       0x000000000000007e       0x7f Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_tim_ex.o
- .comment       0x000000000000007e       0x7f Example/User/NB-2023-S/stm32f429_discovery_bsp.o
+ .comment       0x000000000000007e       0x7f Example/User/NB-2023-S/nb2023s.o
  .comment       0x000000000000007e       0x7f Example/User/NB-2023-S/syscalls.o
  .comment       0x000000000000007e       0x7f Example/User/SSD1306_OLED/ssd1306.o
  .comment       0x000000000000007e       0x7f Example/User/SSD1306_OLED/ssd1306_fonts.o
@@ -20051,7 +20051,7 @@ OUTPUT(STM32446E_Nucleo.elf elf32-littlearm)
  .debug_frame   0x0000000000000820      0x5d0 Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_spi.o
  .debug_frame   0x0000000000000df0      0x854 Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_tim.o
  .debug_frame   0x0000000000001644      0x330 Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_tim_ex.o
- .debug_frame   0x0000000000001974      0x194 Example/User/NB-2023-S/stm32f429_discovery_bsp.o
+ .debug_frame   0x0000000000001974      0x194 Example/User/NB-2023-S/nb2023s.o
  .debug_frame   0x0000000000001b08       0xa0 Example/User/NB-2023-S/syscalls.o
  .debug_frame   0x0000000000001ba8      0x12c Example/User/SSD1306_OLED/ssd1306.o
  .debug_frame   0x0000000000001cd4       0xbc Example/User/main.o
