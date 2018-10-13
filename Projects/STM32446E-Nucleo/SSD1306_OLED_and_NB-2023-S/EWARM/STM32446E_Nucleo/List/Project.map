@@ -1,0 +1,449 @@
+###############################################################################
+#
+# IAR ELF Linker V7.60.1.11101/W32 for ARM                02/Oct/2018  04:39:00
+# Copyright 2007-2016 IAR Systems AB.
+#
+#    Output file  =  
+#        C:\Workspace\HardwareWallet\STM32Cube_FW_F4_V1.21.0\Projects\STM32446E-Nucleo\SSD1306_OLED_Display\EWARM\STM32446E_Nucleo\Exe\Project.out
+#    Map file     =  
+#        C:\Workspace\HardwareWallet\STM32Cube_FW_F4_V1.21.0\Projects\STM32446E-Nucleo\SSD1306_OLED_Display\EWARM\STM32446E_Nucleo\List\Project.map
+#    Command line =  
+#        C:\Workspace\HardwareWallet\STM32Cube_FW_F4_V1.21.0\Projects\STM32446E-Nucleo\SSD1306_OLED_Display\EWARM\STM32446E_Nucleo\Obj\main.o
+#        C:\Workspace\HardwareWallet\STM32Cube_FW_F4_V1.21.0\Projects\STM32446E-Nucleo\SSD1306_OLED_Display\EWARM\STM32446E_Nucleo\Obj\ssd1306.o
+#        C:\Workspace\HardwareWallet\STM32Cube_FW_F4_V1.21.0\Projects\STM32446E-Nucleo\SSD1306_OLED_Display\EWARM\STM32446E_Nucleo\Obj\ssd1306_fonts.o
+#        C:\Workspace\HardwareWallet\STM32Cube_FW_F4_V1.21.0\Projects\STM32446E-Nucleo\SSD1306_OLED_Display\EWARM\STM32446E_Nucleo\Obj\ssd1306_tests.o
+#        C:\Workspace\HardwareWallet\STM32Cube_FW_F4_V1.21.0\Projects\STM32446E-Nucleo\SSD1306_OLED_Display\EWARM\STM32446E_Nucleo\Obj\startup_stm32f446xx.o
+#        C:\Workspace\HardwareWallet\STM32Cube_FW_F4_V1.21.0\Projects\STM32446E-Nucleo\SSD1306_OLED_Display\EWARM\STM32446E_Nucleo\Obj\stm32f4xx_hal.o
+#        C:\Workspace\HardwareWallet\STM32Cube_FW_F4_V1.21.0\Projects\STM32446E-Nucleo\SSD1306_OLED_Display\EWARM\STM32446E_Nucleo\Obj\stm32f4xx_hal_adc.o
+#        C:\Workspace\HardwareWallet\STM32Cube_FW_F4_V1.21.0\Projects\STM32446E-Nucleo\SSD1306_OLED_Display\EWARM\STM32446E_Nucleo\Obj\stm32f4xx_hal_adc_ex.o
+#        C:\Workspace\HardwareWallet\STM32Cube_FW_F4_V1.21.0\Projects\STM32446E-Nucleo\SSD1306_OLED_Display\EWARM\STM32446E_Nucleo\Obj\stm32f4xx_hal_can.o
+#        C:\Workspace\HardwareWallet\STM32Cube_FW_F4_V1.21.0\Projects\STM32446E-Nucleo\SSD1306_OLED_Display\EWARM\STM32446E_Nucleo\Obj\stm32f4xx_hal_cec.o
+#        C:\Workspace\HardwareWallet\STM32Cube_FW_F4_V1.21.0\Projects\STM32446E-Nucleo\SSD1306_OLED_Display\EWARM\STM32446E_Nucleo\Obj\stm32f4xx_hal_cortex.o
+#        C:\Workspace\HardwareWallet\STM32Cube_FW_F4_V1.21.0\Projects\STM32446E-Nucleo\SSD1306_OLED_Display\EWARM\STM32446E_Nucleo\Obj\stm32f4xx_hal_crc.o
+#        C:\Workspace\HardwareWallet\STM32Cube_FW_F4_V1.21.0\Projects\STM32446E-Nucleo\SSD1306_OLED_Display\EWARM\STM32446E_Nucleo\Obj\stm32f4xx_hal_cryp.o
+#        C:\Workspace\HardwareWallet\STM32Cube_FW_F4_V1.21.0\Projects\STM32446E-Nucleo\SSD1306_OLED_Display\EWARM\STM32446E_Nucleo\Obj\stm32f4xx_hal_cryp_ex.o
+#        C:\Workspace\HardwareWallet\STM32Cube_FW_F4_V1.21.0\Projects\STM32446E-Nucleo\SSD1306_OLED_Display\EWARM\STM32446E_Nucleo\Obj\stm32f4xx_hal_dac.o
+#        C:\Workspace\HardwareWallet\STM32Cube_FW_F4_V1.21.0\Projects\STM32446E-Nucleo\SSD1306_OLED_Display\EWARM\STM32446E_Nucleo\Obj\stm32f4xx_hal_dac_ex.o
+#        C:\Workspace\HardwareWallet\STM32Cube_FW_F4_V1.21.0\Projects\STM32446E-Nucleo\SSD1306_OLED_Display\EWARM\STM32446E_Nucleo\Obj\stm32f4xx_hal_dcmi.o
+#        C:\Workspace\HardwareWallet\STM32Cube_FW_F4_V1.21.0\Projects\STM32446E-Nucleo\SSD1306_OLED_Display\EWARM\STM32446E_Nucleo\Obj\stm32f4xx_hal_dcmi_ex.o
+#        C:\Workspace\HardwareWallet\STM32Cube_FW_F4_V1.21.0\Projects\STM32446E-Nucleo\SSD1306_OLED_Display\EWARM\STM32446E_Nucleo\Obj\stm32f4xx_hal_dma.o
+#        C:\Workspace\HardwareWallet\STM32Cube_FW_F4_V1.21.0\Projects\STM32446E-Nucleo\SSD1306_OLED_Display\EWARM\STM32446E_Nucleo\Obj\stm32f4xx_hal_dma2d.o
+#        C:\Workspace\HardwareWallet\STM32Cube_FW_F4_V1.21.0\Projects\STM32446E-Nucleo\SSD1306_OLED_Display\EWARM\STM32446E_Nucleo\Obj\stm32f4xx_hal_dma_ex.o
+#        C:\Workspace\HardwareWallet\STM32Cube_FW_F4_V1.21.0\Projects\STM32446E-Nucleo\SSD1306_OLED_Display\EWARM\STM32446E_Nucleo\Obj\stm32f4xx_hal_eth.o
+#        C:\Workspace\HardwareWallet\STM32Cube_FW_F4_V1.21.0\Projects\STM32446E-Nucleo\SSD1306_OLED_Display\EWARM\STM32446E_Nucleo\Obj\stm32f4xx_hal_flash.o
+#        C:\Workspace\HardwareWallet\STM32Cube_FW_F4_V1.21.0\Projects\STM32446E-Nucleo\SSD1306_OLED_Display\EWARM\STM32446E_Nucleo\Obj\stm32f4xx_hal_flash_ex.o
+#        C:\Workspace\HardwareWallet\STM32Cube_FW_F4_V1.21.0\Projects\STM32446E-Nucleo\SSD1306_OLED_Display\EWARM\STM32446E_Nucleo\Obj\stm32f4xx_hal_flash_ramfunc.o
+#        C:\Workspace\HardwareWallet\STM32Cube_FW_F4_V1.21.0\Projects\STM32446E-Nucleo\SSD1306_OLED_Display\EWARM\STM32446E_Nucleo\Obj\stm32f4xx_hal_fmpi2c.o
+#        C:\Workspace\HardwareWallet\STM32Cube_FW_F4_V1.21.0\Projects\STM32446E-Nucleo\SSD1306_OLED_Display\EWARM\STM32446E_Nucleo\Obj\stm32f4xx_hal_fmpi2c_ex.o
+#        C:\Workspace\HardwareWallet\STM32Cube_FW_F4_V1.21.0\Projects\STM32446E-Nucleo\SSD1306_OLED_Display\EWARM\STM32446E_Nucleo\Obj\stm32f4xx_hal_gpio.o
+#        C:\Workspace\HardwareWallet\STM32Cube_FW_F4_V1.21.0\Projects\STM32446E-Nucleo\SSD1306_OLED_Display\EWARM\STM32446E_Nucleo\Obj\stm32f4xx_hal_hash.o
+#        C:\Workspace\HardwareWallet\STM32Cube_FW_F4_V1.21.0\Projects\STM32446E-Nucleo\SSD1306_OLED_Display\EWARM\STM32446E_Nucleo\Obj\stm32f4xx_hal_hash_ex.o
+#        C:\Workspace\HardwareWallet\STM32Cube_FW_F4_V1.21.0\Projects\STM32446E-Nucleo\SSD1306_OLED_Display\EWARM\STM32446E_Nucleo\Obj\stm32f4xx_hal_hcd.o
+#        C:\Workspace\HardwareWallet\STM32Cube_FW_F4_V1.21.0\Projects\STM32446E-Nucleo\SSD1306_OLED_Display\EWARM\STM32446E_Nucleo\Obj\stm32f4xx_hal_i2c.o
+#        C:\Workspace\HardwareWallet\STM32Cube_FW_F4_V1.21.0\Projects\STM32446E-Nucleo\SSD1306_OLED_Display\EWARM\STM32446E_Nucleo\Obj\stm32f4xx_hal_i2c_ex.o
+#        C:\Workspace\HardwareWallet\STM32Cube_FW_F4_V1.21.0\Projects\STM32446E-Nucleo\SSD1306_OLED_Display\EWARM\STM32446E_Nucleo\Obj\stm32f4xx_hal_i2s.o
+#        C:\Workspace\HardwareWallet\STM32Cube_FW_F4_V1.21.0\Projects\STM32446E-Nucleo\SSD1306_OLED_Display\EWARM\STM32446E_Nucleo\Obj\stm32f4xx_hal_i2s_ex.o
+#        C:\Workspace\HardwareWallet\STM32Cube_FW_F4_V1.21.0\Projects\STM32446E-Nucleo\SSD1306_OLED_Display\EWARM\STM32446E_Nucleo\Obj\stm32f4xx_hal_irda.o
+#        C:\Workspace\HardwareWallet\STM32Cube_FW_F4_V1.21.0\Projects\STM32446E-Nucleo\SSD1306_OLED_Display\EWARM\STM32446E_Nucleo\Obj\stm32f4xx_hal_iwdg.o
+#        C:\Workspace\HardwareWallet\STM32Cube_FW_F4_V1.21.0\Projects\STM32446E-Nucleo\SSD1306_OLED_Display\EWARM\STM32446E_Nucleo\Obj\stm32f4xx_hal_ltdc.o
+#        C:\Workspace\HardwareWallet\STM32Cube_FW_F4_V1.21.0\Projects\STM32446E-Nucleo\SSD1306_OLED_Display\EWARM\STM32446E_Nucleo\Obj\stm32f4xx_hal_msp.o
+#        C:\Workspace\HardwareWallet\STM32Cube_FW_F4_V1.21.0\Projects\STM32446E-Nucleo\SSD1306_OLED_Display\EWARM\STM32446E_Nucleo\Obj\stm32f4xx_hal_nand.o
+#        C:\Workspace\HardwareWallet\STM32Cube_FW_F4_V1.21.0\Projects\STM32446E-Nucleo\SSD1306_OLED_Display\EWARM\STM32446E_Nucleo\Obj\stm32f4xx_hal_nor.o
+#        C:\Workspace\HardwareWallet\STM32Cube_FW_F4_V1.21.0\Projects\STM32446E-Nucleo\SSD1306_OLED_Display\EWARM\STM32446E_Nucleo\Obj\stm32f4xx_hal_pccard.o
+#        C:\Workspace\HardwareWallet\STM32Cube_FW_F4_V1.21.0\Projects\STM32446E-Nucleo\SSD1306_OLED_Display\EWARM\STM32446E_Nucleo\Obj\stm32f4xx_hal_pcd.o
+#        C:\Workspace\HardwareWallet\STM32Cube_FW_F4_V1.21.0\Projects\STM32446E-Nucleo\SSD1306_OLED_Display\EWARM\STM32446E_Nucleo\Obj\stm32f4xx_hal_pcd_ex.o
+#        C:\Workspace\HardwareWallet\STM32Cube_FW_F4_V1.21.0\Projects\STM32446E-Nucleo\SSD1306_OLED_Display\EWARM\STM32446E_Nucleo\Obj\stm32f4xx_hal_pwr.o
+#        C:\Workspace\HardwareWallet\STM32Cube_FW_F4_V1.21.0\Projects\STM32446E-Nucleo\SSD1306_OLED_Display\EWARM\STM32446E_Nucleo\Obj\stm32f4xx_hal_pwr_ex.o
+#        C:\Workspace\HardwareWallet\STM32Cube_FW_F4_V1.21.0\Projects\STM32446E-Nucleo\SSD1306_OLED_Display\EWARM\STM32446E_Nucleo\Obj\stm32f4xx_hal_qspi.o
+#        C:\Workspace\HardwareWallet\STM32Cube_FW_F4_V1.21.0\Projects\STM32446E-Nucleo\SSD1306_OLED_Display\EWARM\STM32446E_Nucleo\Obj\stm32f4xx_hal_rcc.o
+#        C:\Workspace\HardwareWallet\STM32Cube_FW_F4_V1.21.0\Projects\STM32446E-Nucleo\SSD1306_OLED_Display\EWARM\STM32446E_Nucleo\Obj\stm32f4xx_hal_rcc_ex.o
+#        C:\Workspace\HardwareWallet\STM32Cube_FW_F4_V1.21.0\Projects\STM32446E-Nucleo\SSD1306_OLED_Display\EWARM\STM32446E_Nucleo\Obj\stm32f4xx_hal_rng.o
+#        C:\Workspace\HardwareWallet\STM32Cube_FW_F4_V1.21.0\Projects\STM32446E-Nucleo\SSD1306_OLED_Display\EWARM\STM32446E_Nucleo\Obj\stm32f4xx_hal_rtc.o
+#        C:\Workspace\HardwareWallet\STM32Cube_FW_F4_V1.21.0\Projects\STM32446E-Nucleo\SSD1306_OLED_Display\EWARM\STM32446E_Nucleo\Obj\stm32f4xx_hal_rtc_ex.o
+#        C:\Workspace\HardwareWallet\STM32Cube_FW_F4_V1.21.0\Projects\STM32446E-Nucleo\SSD1306_OLED_Display\EWARM\STM32446E_Nucleo\Obj\stm32f4xx_hal_sai.o
+#        C:\Workspace\HardwareWallet\STM32Cube_FW_F4_V1.21.0\Projects\STM32446E-Nucleo\SSD1306_OLED_Display\EWARM\STM32446E_Nucleo\Obj\stm32f4xx_hal_sai_ex.o
+#        C:\Workspace\HardwareWallet\STM32Cube_FW_F4_V1.21.0\Projects\STM32446E-Nucleo\SSD1306_OLED_Display\EWARM\STM32446E_Nucleo\Obj\stm32f4xx_hal_sd.o
+#        C:\Workspace\HardwareWallet\STM32Cube_FW_F4_V1.21.0\Projects\STM32446E-Nucleo\SSD1306_OLED_Display\EWARM\STM32446E_Nucleo\Obj\stm32f4xx_hal_sdram.o
+#        C:\Workspace\HardwareWallet\STM32Cube_FW_F4_V1.21.0\Projects\STM32446E-Nucleo\SSD1306_OLED_Display\EWARM\STM32446E_Nucleo\Obj\stm32f4xx_hal_smartcard.o
+#        C:\Workspace\HardwareWallet\STM32Cube_FW_F4_V1.21.0\Projects\STM32446E-Nucleo\SSD1306_OLED_Display\EWARM\STM32446E_Nucleo\Obj\stm32f4xx_hal_spdifrx.o
+#        C:\Workspace\HardwareWallet\STM32Cube_FW_F4_V1.21.0\Projects\STM32446E-Nucleo\SSD1306_OLED_Display\EWARM\STM32446E_Nucleo\Obj\stm32f4xx_hal_spi.o
+#        C:\Workspace\HardwareWallet\STM32Cube_FW_F4_V1.21.0\Projects\STM32446E-Nucleo\SSD1306_OLED_Display\EWARM\STM32446E_Nucleo\Obj\stm32f4xx_hal_sram.o
+#        C:\Workspace\HardwareWallet\STM32Cube_FW_F4_V1.21.0\Projects\STM32446E-Nucleo\SSD1306_OLED_Display\EWARM\STM32446E_Nucleo\Obj\stm32f4xx_hal_tim.o
+#        C:\Workspace\HardwareWallet\STM32Cube_FW_F4_V1.21.0\Projects\STM32446E-Nucleo\SSD1306_OLED_Display\EWARM\STM32446E_Nucleo\Obj\stm32f4xx_hal_tim_ex.o
+#        C:\Workspace\HardwareWallet\STM32Cube_FW_F4_V1.21.0\Projects\STM32446E-Nucleo\SSD1306_OLED_Display\EWARM\STM32446E_Nucleo\Obj\stm32f4xx_hal_uart.o
+#        C:\Workspace\HardwareWallet\STM32Cube_FW_F4_V1.21.0\Projects\STM32446E-Nucleo\SSD1306_OLED_Display\EWARM\STM32446E_Nucleo\Obj\stm32f4xx_hal_usart.o
+#        C:\Workspace\HardwareWallet\STM32Cube_FW_F4_V1.21.0\Projects\STM32446E-Nucleo\SSD1306_OLED_Display\EWARM\STM32446E_Nucleo\Obj\stm32f4xx_hal_wwdg.o
+#        C:\Workspace\HardwareWallet\STM32Cube_FW_F4_V1.21.0\Projects\STM32446E-Nucleo\SSD1306_OLED_Display\EWARM\STM32446E_Nucleo\Obj\stm32f4xx_it.o
+#        C:\Workspace\HardwareWallet\STM32Cube_FW_F4_V1.21.0\Projects\STM32446E-Nucleo\SSD1306_OLED_Display\EWARM\STM32446E_Nucleo\Obj\stm32f4xx_ll_fmc.o
+#        C:\Workspace\HardwareWallet\STM32Cube_FW_F4_V1.21.0\Projects\STM32446E-Nucleo\SSD1306_OLED_Display\EWARM\STM32446E_Nucleo\Obj\stm32f4xx_ll_fsmc.o
+#        C:\Workspace\HardwareWallet\STM32Cube_FW_F4_V1.21.0\Projects\STM32446E-Nucleo\SSD1306_OLED_Display\EWARM\STM32446E_Nucleo\Obj\stm32f4xx_ll_sdmmc.o
+#        C:\Workspace\HardwareWallet\STM32Cube_FW_F4_V1.21.0\Projects\STM32446E-Nucleo\SSD1306_OLED_Display\EWARM\STM32446E_Nucleo\Obj\stm32f4xx_ll_usb.o
+#        C:\Workspace\HardwareWallet\STM32Cube_FW_F4_V1.21.0\Projects\STM32446E-Nucleo\SSD1306_OLED_Display\EWARM\STM32446E_Nucleo\Obj\system_stm32f4xx.o
+#        --redirect _Printf=_PrintfSmall --redirect _Scanf=_ScanfSmall -o
+#        C:\Workspace\HardwareWallet\STM32Cube_FW_F4_V1.21.0\Projects\STM32446E-Nucleo\SSD1306_OLED_Display\EWARM\STM32446E_Nucleo\Exe\Project.out
+#        --map
+#        C:\Workspace\HardwareWallet\STM32Cube_FW_F4_V1.21.0\Projects\STM32446E-Nucleo\SSD1306_OLED_Display\EWARM\STM32446E_Nucleo\List\Project.map
+#        --config
+#        C:\Workspace\HardwareWallet\STM32Cube_FW_F4_V1.21.0\Projects\STM32446E-Nucleo\SSD1306_OLED_Display\EWARM\stm32f446xx_flash.icf
+#        --semihosting --entry __iar_program_start --vfe
+#
+###############################################################################
+
+*******************************************************************************
+*** RUNTIME MODEL ATTRIBUTES
+***
+
+CppFlavor                     = *
+__Heap_Handler                = Basic
+__SystemLibrary               = DLib
+__dlib_dynamic_initialization = normal
+
+
+*******************************************************************************
+*** PLACEMENT SUMMARY
+***
+
+"A1":  place at 0x08000000 { ro section .intvec };
+"P1":  place in [from 0x08000000 to 0x0807ffff] { ro };
+"P2":  place in [from 0x20000000 to 0x2001ffff] { rw, block CSTACK, block HEAP };
+initialize by copy { rw };
+
+  Section            Kind        Address    Size  Object
+  -------            ----        -------    ----  ------
+"A1":                                      0x1c4
+  .intvec            ro code  0x08000000   0x1c4  startup_stm32f446xx.o [1]
+                            - 0x080001c4   0x1c4
+
+"P1":                                     0x2748
+  .rodata            const    0x080001c4   0xd5c  ssd1306_fonts.o [1]
+  .text              ro code  0x08000f20   0x528  stm32f4xx_hal_rcc_ex.o [1]
+  .text              ro code  0x08001448    0xee  I64DivMod.o [5]
+  .text              ro code  0x08001538    0xc8  stm32f4xx_hal.o [1]
+  .text              ro code  0x08001600     0x2  I64DivZer.o [5]
+  .text              ro code  0x08001604   0x118  stm32f4xx_hal_cortex.o [1]
+  .text              ro code  0x0800171c    0x7c  stm32f4xx_hal_msp.o [1]
+  .text              ro code  0x08001798   0x224  stm32f4xx_hal_gpio.o [1]
+  .text              ro code  0x080019bc   0x394  ssd1306.o [1]
+  .text              ro code  0x08001d50   0x362  stm32f4xx_hal_spi.o [1]
+  .text              ro code  0x080020b4   0x310  main.o [1]
+  .text              ro code  0x080023c4   0x17c  stm32f4xx_hal_rcc.o [1]
+  .rodata            const    0x08002540    0x70  main.o [1]
+  .text              ro code  0x080025b0    0x6c  system_stm32f4xx.o [1]
+  .text              ro code  0x0800261c    0x40  zero_init3.o [5]
+  .text              ro code  0x0800265c    0x2c  copy_init3.o [5]
+  .text              ro code  0x08002688    0x28  data_init.o [5]
+  .text              ro code  0x080026b0    0x22  fpinit_M.o [4]
+  .iar.init_table    const    0x080026d4    0x24  - Linker created -
+  .text              ro code  0x080026f8    0x1a  cmain.o [5]
+  .text              ro code  0x08002712     0x4  low_level_init.o [3]
+  .text              ro code  0x08002716     0x4  exit.o [3]
+  .text              ro code  0x0800271c     0xa  cexit.o [5]
+  .text              ro code  0x08002728    0x14  exit.o [6]
+  .text              ro code  0x0800273c    0x18  stm32f4xx_it.o [1]
+  Initializer bytes  const    0x08002754    0x14  <for P2-1>
+  .rodata            const    0x08002768    0x10  system_stm32f4xx.o [1]
+  .text              ro code  0x08002778    0x10  startup_stm32f446xx.o [1]
+  .rodata            const    0x08002788     0xc  main.o [1]
+  .rodata            const    0x08002794     0xc  main.o [1]
+  .text              ro code  0x080027a0     0xc  cstartup_M.o [5]
+  .rodata            const    0x080027ac     0x8  main.o [1]
+  .text              ro code  0x080027b4     0x4  startup_stm32f446xx.o [1]
+  .text              ro code  0x080027b8     0x4  startup_stm32f446xx.o [1]
+  .text              ro code  0x080027bc     0x4  startup_stm32f446xx.o [1]
+  .text              ro code  0x080027c0     0x4  startup_stm32f446xx.o [1]
+  .text              ro code  0x080027c4     0x4  startup_stm32f446xx.o [1]
+  .text              ro code  0x080027c8     0x4  startup_stm32f446xx.o [1]
+  .text              ro code  0x080027cc     0x4  startup_stm32f446xx.o [1]
+  .text              ro code  0x080027d0     0x4  startup_stm32f446xx.o [1]
+  .text              ro code  0x080027d4     0x4  startup_stm32f446xx.o [1]
+  .text              ro code  0x080027d8     0x4  startup_stm32f446xx.o [1]
+  .text              ro code  0x080027dc     0x4  startup_stm32f446xx.o [1]
+  .text              ro code  0x080027e0     0x4  startup_stm32f446xx.o [1]
+  .text              ro code  0x080027e4     0x4  startup_stm32f446xx.o [1]
+  .text              ro code  0x080027e8     0x4  startup_stm32f446xx.o [1]
+  .text              ro code  0x080027ec     0x4  startup_stm32f446xx.o [1]
+  .text              ro code  0x080027f0     0x4  startup_stm32f446xx.o [1]
+  .text              ro code  0x080027f4     0x4  startup_stm32f446xx.o [1]
+  .text              ro code  0x080027f8     0x4  startup_stm32f446xx.o [1]
+  .text              ro code  0x080027fc     0x4  startup_stm32f446xx.o [1]
+  .text              ro code  0x08002800     0x4  startup_stm32f446xx.o [1]
+  .text              ro code  0x08002804     0x4  startup_stm32f446xx.o [1]
+  .text              ro code  0x08002808     0x4  startup_stm32f446xx.o [1]
+  .text              ro code  0x0800280c     0x4  startup_stm32f446xx.o [1]
+  .text              ro code  0x08002810     0x4  startup_stm32f446xx.o [1]
+  .text              ro code  0x08002814     0x4  startup_stm32f446xx.o [1]
+  .text              ro code  0x08002818     0x4  startup_stm32f446xx.o [1]
+  .text              ro code  0x0800281c     0x4  startup_stm32f446xx.o [1]
+  .text              ro code  0x08002820     0x4  startup_stm32f446xx.o [1]
+  .text              ro code  0x08002824     0x4  startup_stm32f446xx.o [1]
+  .text              ro code  0x08002828     0x4  startup_stm32f446xx.o [1]
+  .text              ro code  0x0800282c     0x4  startup_stm32f446xx.o [1]
+  .text              ro code  0x08002830     0x4  startup_stm32f446xx.o [1]
+  .text              ro code  0x08002834     0x4  startup_stm32f446xx.o [1]
+  .text              ro code  0x08002838     0x4  startup_stm32f446xx.o [1]
+  .text              ro code  0x0800283c     0x4  startup_stm32f446xx.o [1]
+  .text              ro code  0x08002840     0x4  startup_stm32f446xx.o [1]
+  .text              ro code  0x08002844     0x4  startup_stm32f446xx.o [1]
+  .text              ro code  0x08002848     0x4  startup_stm32f446xx.o [1]
+  .text              ro code  0x0800284c     0x4  startup_stm32f446xx.o [1]
+  .text              ro code  0x08002850     0x4  startup_stm32f446xx.o [1]
+  .text              ro code  0x08002854     0x4  startup_stm32f446xx.o [1]
+  .text              ro code  0x08002858     0x4  startup_stm32f446xx.o [1]
+  .text              ro code  0x0800285c     0x4  startup_stm32f446xx.o [1]
+  .text              ro code  0x08002860     0x4  startup_stm32f446xx.o [1]
+  .text              ro code  0x08002864     0x4  startup_stm32f446xx.o [1]
+  .text              ro code  0x08002868     0x4  startup_stm32f446xx.o [1]
+  .text              ro code  0x0800286c     0x4  startup_stm32f446xx.o [1]
+  .text              ro code  0x08002870     0x4  startup_stm32f446xx.o [1]
+  .text              ro code  0x08002874     0x4  startup_stm32f446xx.o [1]
+  .text              ro code  0x08002878     0x4  startup_stm32f446xx.o [1]
+  .text              ro code  0x0800287c     0x4  startup_stm32f446xx.o [1]
+  .text              ro code  0x08002880     0x4  startup_stm32f446xx.o [1]
+  .text              ro code  0x08002884     0x4  startup_stm32f446xx.o [1]
+  .text              ro code  0x08002888     0x4  startup_stm32f446xx.o [1]
+  .text              ro code  0x0800288c     0x4  startup_stm32f446xx.o [1]
+  .text              ro code  0x08002890     0x4  startup_stm32f446xx.o [1]
+  .text              ro code  0x08002894     0x4  startup_stm32f446xx.o [1]
+  .text              ro code  0x08002898     0x4  startup_stm32f446xx.o [1]
+  .text              ro code  0x0800289c     0x4  startup_stm32f446xx.o [1]
+  .text              ro code  0x080028a0     0x4  startup_stm32f446xx.o [1]
+  .text              ro code  0x080028a4     0x4  startup_stm32f446xx.o [1]
+  .text              ro code  0x080028a8     0x4  startup_stm32f446xx.o [1]
+  .text              ro code  0x080028ac     0x4  startup_stm32f446xx.o [1]
+  .text              ro code  0x080028b0     0x4  startup_stm32f446xx.o [1]
+  .text              ro code  0x080028b4     0x4  startup_stm32f446xx.o [1]
+  .text              ro code  0x080028b8     0x4  startup_stm32f446xx.o [1]
+  .text              ro code  0x080028bc     0x4  startup_stm32f446xx.o [1]
+  .text              ro code  0x080028c0     0x4  startup_stm32f446xx.o [1]
+  .text              ro code  0x080028c4     0x4  startup_stm32f446xx.o [1]
+  .text              ro code  0x080028c8     0x4  startup_stm32f446xx.o [1]
+  .text              ro code  0x080028cc     0x4  startup_stm32f446xx.o [1]
+  .text              ro code  0x080028d0     0x4  startup_stm32f446xx.o [1]
+  .text              ro code  0x080028d4     0x4  startup_stm32f446xx.o [1]
+  .text              ro code  0x080028d8     0x4  startup_stm32f446xx.o [1]
+  .text              ro code  0x080028dc     0x4  startup_stm32f446xx.o [1]
+  .text              ro code  0x080028e0     0x4  startup_stm32f446xx.o [1]
+  .text              ro code  0x080028e4     0x4  startup_stm32f446xx.o [1]
+  .text              ro code  0x080028e8     0x4  startup_stm32f446xx.o [1]
+  .text              ro code  0x080028ec     0x4  startup_stm32f446xx.o [1]
+  .text              ro code  0x080028f0     0x4  startup_stm32f446xx.o [1]
+  .text              ro code  0x080028f4     0x4  startup_stm32f446xx.o [1]
+  .text              ro code  0x080028f8     0x4  startup_stm32f446xx.o [1]
+  .text              ro code  0x080028fc     0x4  startup_stm32f446xx.o [1]
+  .text              ro code  0x08002900     0x4  startup_stm32f446xx.o [1]
+  .text              ro code  0x08002904     0x4  startup_stm32f446xx.o [1]
+  .text              ro code  0x08002908     0x4  startup_stm32f446xx.o [1]
+  .rodata            const    0x0800290c     0x0  zero_init3.o [5]
+  .rodata            const    0x0800290c     0x0  copy_init3.o [5]
+                            - 0x0800290c  0x2748
+
+"P2", part 1 of 3:                          0x14
+  P2-1                        0x20000000    0x11  <Init block>
+    .data            inited   0x20000000     0x8  ssd1306_fonts.o [1]
+    .data            inited   0x20000008     0x4  stm32f4xx_hal.o [1]
+    .data            inited   0x2000000c     0x4  system_stm32f4xx.o [1]
+    .data            inited   0x20000010     0x1  stm32f4xx_hal.o [1]
+                            - 0x20000011    0x11
+
+"P2", part 2 of 3:                         0x400
+  CSTACK                      0x20000018   0x400  <Block>
+    CSTACK           uninit   0x20000018   0x400  <Block tail>
+                            - 0x20000418   0x400
+
+"P2", part 3 of 3:                         0x468
+  .bss               zero     0x20000418   0x400  ssd1306.o [1]
+  .bss               zero     0x20000818    0x58  main.o [1]
+  .bss               zero     0x20000870     0x8  ssd1306.o [1]
+  .bss               zero     0x20000878     0x4  main.o [1]
+  .bss               zero     0x2000087c     0x4  stm32f4xx_hal.o [1]
+                            - 0x20000880   0x468
+
+
+*******************************************************************************
+*** INIT TABLE
+***
+
+          Address     Size
+          -------     ----
+Zero (__iar_zero_init3)
+    1 destination range, total size 0x468:
+          0x20000418  0x468
+
+Copy (__iar_copy_init3)
+    1 source range, total size 0x14 (117% of destination):
+          0x08002754   0x14
+    1 destination range, total size 0x11:
+          0x20000000   0x11
+
+
+
+*******************************************************************************
+*** MODULE SUMMARY
+***
+
+    Module                  ro code  ro data  rw data
+    ------                  -------  -------  -------
+C:\Workspace\HardwareWallet\STM32Cube_FW_F4_V1.21.0\Projects\STM32446E-Nucleo\SSD1306_OLED_Display\EWARM\STM32446E_Nucleo\Obj: [1]
+    main.o                      784      144       92
+    ssd1306.o                   916             1 032
+    ssd1306_fonts.o                    3 428        8
+    startup_stm32f446xx.o       812
+    stm32f4xx_hal.o             200        5        9
+    stm32f4xx_hal_cortex.o      280
+    stm32f4xx_hal_gpio.o        548
+    stm32f4xx_hal_msp.o         124
+    stm32f4xx_hal_rcc.o         380
+    stm32f4xx_hal_rcc_ex.o    1 320
+    stm32f4xx_hal_spi.o         866
+    stm32f4xx_it.o               24
+    system_stm32f4xx.o          108       20        4
+    -------------------------------------------------
+    Total:                    6 362    3 597    1 145
+
+command line: [2]
+    -------------------------------------------------
+    Total:
+
+dl7M_tlf.a: [3]
+    exit.o                        4
+    low_level_init.o              4
+    -------------------------------------------------
+    Total:                        8
+
+m7M_tls.a: [4]
+    fpinit_M.o                   34
+    -------------------------------------------------
+    Total:                       34
+
+rt7M_tl.a: [5]
+    I64DivMod.o                 238
+    I64DivZer.o                   2
+    cexit.o                      10
+    cmain.o                      26
+    copy_init3.o                 44
+    cstartup_M.o                 12
+    data_init.o                  40
+    zero_init3.o                 64
+    -------------------------------------------------
+    Total:                      436
+
+shb_l.a: [6]
+    exit.o                       20
+    -------------------------------------------------
+    Total:                       20
+
+    Gaps                         10        2
+    Linker created                        39    1 024
+-----------------------------------------------------
+    Grand Total:              6 870    3 638    2 169
+
+
+*******************************************************************************
+*** ENTRY LIST
+***
+
+Entry                      Address   Size  Type      Object
+-----                      -------   ----  ----      ------
+.iar.init_table$$Base   0x080026d4          --   Gb  - Linker created -
+.iar.init_table$$Limit  0x080026f8          --   Gb  - Linker created -
+?main                   0x080026f9         Code  Gb  cmain.o [5]
+AHBPrescTable           0x08002768   0x10  Data  Gb  system_stm32f4xx.o [1]
+BusFault_Handler        0x08002743    0x2  Code  Gb  stm32f4xx_it.o [1]
+CSTACK$$Base            0x20000018          --   Gb  - Linker created -
+CSTACK$$Limit           0x20000418          --   Gb  - Linker created -
+DebugMon_Handler        0x08002749    0x2  Code  Gb  stm32f4xx_it.o [1]
+Error_Handler           0x080023c1    0x2  Code  Lc  main.o [1]
+Font11x18               0x080001c4  0xd5c  Data  Lc  ssd1306_fonts.o [1]
+Font_11x18              0x20000000    0x8  Data  Gb  ssd1306_fonts.o [1]
+HAL_Delay               0x080015c9   0x24  Code  Wk  stm32f4xx_hal.o [1]
+HAL_GPIO_Init           0x08001799  0x1da  Code  Gb  stm32f4xx_hal_gpio.o [1]
+HAL_GPIO_WritePin       0x08001973   0x14  Code  Gb  stm32f4xx_hal_gpio.o [1]
+HAL_GetTick             0x080015c3    0x6  Code  Wk  stm32f4xx_hal.o [1]
+HAL_IncTick             0x080015b3   0x10  Code  Wk  stm32f4xx_hal.o [1]
+HAL_Init                0x08001539   0x3a  Code  Gb  stm32f4xx_hal.o [1]
+HAL_InitTick            0x08001573   0x40  Code  Wk  stm32f4xx_hal.o [1]
+HAL_MspInit             0x0800171d    0x2  Code  Gb  stm32f4xx_hal_msp.o [1]
+HAL_NVIC_SetPriority    0x080016cd   0x26  Code  Gb  stm32f4xx_hal_cortex.o [1]
+HAL_NVIC_SetPriorityGrouping
+                        0x080016c1    0xc  Code  Gb  stm32f4xx_hal_cortex.o [1]
+HAL_RCC_ClockConfig     0x080023c5  0x168  Code  Gb  stm32f4xx_hal_rcc.o [1]
+HAL_RCC_GetSysClockFreq
+                        0x08000f21  0x112  Code  Gb  stm32f4xx_hal_rcc_ex.o [1]
+HAL_RCC_OscConfig       0x08001039  0x3e0  Code  Gb  stm32f4xx_hal_rcc_ex.o [1]
+HAL_SPI_Init            0x08001d51   0xa0  Code  Gb  stm32f4xx_hal_spi.o [1]
+HAL_SPI_MspInit         0x0800171f   0x68  Code  Gb  stm32f4xx_hal_msp.o [1]
+HAL_SPI_Transmit        0x08001df1  0x1f0  Code  Gb  stm32f4xx_hal_spi.o [1]
+HAL_SYSTICK_Config      0x080016f3    0xc  Code  Gb  stm32f4xx_hal_cortex.o [1]
+HardFault_Handler       0x0800273f    0x2  Code  Gb  stm32f4xx_it.o [1]
+MX_GPIO_Init            0x080021d3  0x114  Code  Lc  main.o [1]
+MX_SPI2_Init            0x0800216f   0x64  Code  Lc  main.o [1]
+MemManage_Handler       0x08002741    0x2  Code  Gb  stm32f4xx_it.o [1]
+NMI_Handler             0x0800273d    0x2  Code  Gb  stm32f4xx_it.o [1]
+NVIC_EncodePriority     0x08001653   0x3e  Code  Lc  stm32f4xx_hal_cortex.o [1]
+NVIC_GetPriorityGrouping
+                        0x08001623    0xa  Code  Lc  stm32f4xx_hal_cortex.o [1]
+NVIC_SetPriority        0x0800162d   0x26  Code  Lc  stm32f4xx_hal_cortex.o [1]
+NVIC_SetPriorityGrouping
+                        0x08001605   0x1e  Code  Lc  stm32f4xx_hal_cortex.o [1]
+PendSV_Handler          0x0800274b    0x2  Code  Gb  stm32f4xx_it.o [1]
+Region$$Table$$Base     0x080026d4          --   Gb  - Linker created -
+Region$$Table$$Limit    0x080026f8          --   Gb  - Linker created -
+SPI_CheckFlag_BSY       0x08002087   0x2c  Code  Lc  stm32f4xx_hal_spi.o [1]
+SPI_WaitFlagStateUntilTimeout
+                        0x08001fe1   0xa6  Code  Lc  stm32f4xx_hal_spi.o [1]
+SSD1306                 0x20000870    0x8  Data  Lc  ssd1306.o [1]
+SSD1306_Buffer          0x20000418  0x400  Data  Lc  ssd1306.o [1]
+SVC_Handler             0x08002747    0x2  Code  Gb  stm32f4xx_it.o [1]
+SysTick_Config          0x08001691   0x30  Code  Lc  stm32f4xx_hal_cortex.o [1]
+SysTick_Handler         0x0800274d    0x8  Code  Gb  stm32f4xx_it.o [1]
+SystemClock_Config      0x080022e7   0x9c  Code  Lc  main.o [1]
+SystemCoreClock         0x2000000c    0x4  Data  Gb  system_stm32f4xx.o [1]
+SystemInit              0x080025b1   0x4c  Code  Gb  system_stm32f4xx.o [1]
+UsageFault_Handler      0x08002745    0x2  Code  Gb  stm32f4xx_it.o [1]
+_Error_Handler          0x080023c3    0x2  Code  Gb  main.o [1]
+__aeabi_ldiv0           0x08001601         Code  Gb  I64DivZer.o [5]
+__aeabi_uldivmod        0x08001449         Code  Gb  I64DivMod.o [5]
+__cmain                 0x080026f9         Code  Gb  cmain.o [5]
+__exit                  0x08002729   0x14  Code  Gb  exit.o [6]
+__iar_copy_init3        0x0800265d   0x2c  Code  Gb  copy_init3.o [5]
+__iar_data_init3        0x08002689   0x28  Code  Gb  data_init.o [5]
+__iar_init_vfp          0x080026b1         Code  Gb  fpinit_M.o [4]
+__iar_program_start     0x080027a1         Code  Gb  cstartup_M.o [5]
+__iar_zero_init3        0x0800261d   0x40  Code  Gb  zero_init3.o [5]
+__low_level_init        0x08002713    0x4  Code  Gb  low_level_init.o [3]
+__vector_table          0x08000000         Data  Gb  startup_stm32f446xx.o [1]
+_call_main              0x08002705         Code  Gb  cmain.o [5]
+_exit                   0x0800271d         Code  Gb  cexit.o [5]
+_main                   0x0800270f         Code  Gb  cmain.o [5]
+exit                    0x08002717    0x4  Code  Gb  exit.o [3]
+hspi2                   0x20000818   0x58  Data  Gb  main.o [1]
+main                    0x080020b5   0xba  Code  Gb  main.o [1]
+ssd1306_DrawPixel       0x08001b93   0xaa  Code  Gb  ssd1306.o [1]
+ssd1306_Fill            0x08001b39   0x20  Code  Gb  ssd1306.o [1]
+ssd1306_Init            0x08001a67   0xd2  Code  Gb  ssd1306.o [1]
+ssd1306_Reset           0x080019bd   0x38  Code  Gb  ssd1306.o [1]
+ssd1306_SetCursor       0x08001d2f    0xe  Code  Gb  ssd1306.o [1]
+ssd1306_UpdateScreen    0x08001b59   0x3a  Code  Gb  ssd1306.o [1]
+ssd1306_WriteChar       0x08001c3d   0xc0  Code  Gb  ssd1306.o [1]
+ssd1306_WriteCommand    0x080019f5   0x36  Code  Gb  ssd1306.o [1]
+ssd1306_WriteData       0x08001a2b   0x3c  Code  Gb  ssd1306.o [1]
+ssd1306_WriteString     0x08001cfd   0x32  Code  Gb  ssd1306.o [1]
+state                   0x20000878    0x4  Data  Lc  main.o [1]
+uwTick                  0x2000087c    0x4  Data  Gb  stm32f4xx_hal.o [1]
+uwTickFreq              0x20000010    0x1  Data  Gb  stm32f4xx_hal.o [1]
+uwTickPrio              0x20000008    0x4  Data  Gb  stm32f4xx_hal.o [1]
+
+
+[1] = C:\Workspace\HardwareWallet\STM32Cube_FW_F4_V1.21.0\Projects\STM32446E-Nucleo\SSD1306_OLED_Display\EWARM\STM32446E_Nucleo\Obj
+[2] = command line
+[3] = dl7M_tlf.a
+[4] = m7M_tls.a
+[5] = rt7M_tl.a
+[6] = shb_l.a
+
+  6 870 bytes of readonly  code memory
+  3 638 bytes of readonly  data memory
+  2 169 bytes of readwrite data memory
+
+Errors: none
+Warnings: none
