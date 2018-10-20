@@ -63,6 +63,8 @@
 "Drivers/STM32F4xx_HAL_Driver/stm32f4xx_ll_sdmmc.o"
 "Drivers/STM32F4xx_HAL_Driver/stm32f4xx_ll_usb.o"
 "Example/SW4STM32/startup_stm32f446xx.o"
+"Example/User/EEPROM_Emulation/eeprom.o"
+"Example/User/EEPROM_Emulation/eeprom_manager.o"
 "Example/User/NB-2023-S/nb2023s.o"
 "Example/User/NB-2023-S/syscalls.o"
 "Example/User/SSD1306_OLED/ssd1306.o"

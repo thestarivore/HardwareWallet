@@ -10,6 +10,7 @@ RM := rm -rf
 -include sources.mk
 -include Example/User/SSD1306_OLED/subdir.mk
 -include Example/User/NB-2023-S/subdir.mk
+-include Example/User/EEPROM_Emulation/subdir.mk
 -include Example/User/subdir.mk
 -include Example/SW4STM32/subdir.mk
 -include Drivers/STM32F4xx_HAL_Driver/subdir.mk

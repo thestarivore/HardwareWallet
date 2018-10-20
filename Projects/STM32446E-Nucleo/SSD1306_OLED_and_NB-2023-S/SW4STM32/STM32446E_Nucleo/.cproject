@@ -37,6 +37,7 @@
 									<listOptionValue builtIn="false" value="../../../Inc/ssd1306"/>
 									<listOptionValue builtIn="false" value="../../../Inc/NB-2023-S"/>
 									<listOptionValue builtIn="false" value="../../../Inc/NB-2023-S/Include"/>
+									<listOptionValue builtIn="false" value="../../../Inc/EEPROM_Emulation"/>
 									<listOptionValue builtIn="false" value="../../../../../../Drivers/CMSIS/Device/ST/STM32F4xx/Include"/>
 									<listOptionValue builtIn="false" value="../../../../../../Drivers/STM32F4xx_HAL_Driver/Inc"/>
 									<listOptionValue builtIn="false" value="../../../../../../Drivers/CMSIS/Include"/>
@@ -109,10 +110,10 @@
 	</storageModule>
 	<storageModule moduleId="org.eclipse.cdt.core.LanguageSettingsProviders"/>
 	<storageModule moduleId="refreshScope" versionNumber="2">
-		<configuration artifactName="STM32446E_Nucleo" configurationName="Debug">
+		<configuration configurationName="Debug">
 			<resource resourceType="PROJECT" workspacePath="/STM32446E_Nucleo"/>
 		</configuration>
-		<configuration artifactName="STM32446E_Nucleo" configurationName="Release">
+		<configuration configurationName="Release">
 			<resource resourceType="PROJECT" workspacePath="/STM32446E_Nucleo"/>
 		</configuration>
 	</storageModule>

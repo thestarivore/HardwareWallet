@@ -49,6 +49,8 @@
 #include <NBDevicesLibrary.h>
 #include <nb2023s.h>
 
+#include "eeprom_manager.h"
+
 /** @addtogroup STM32F4xx_HAL_Examples
   * @{
   */
@@ -67,6 +69,8 @@ DMA_HandleTypeDef hdma_spi1_rx;
 DMA_HandleTypeDef hdma_spi1_tx;
 TIM_HandleTypeDef htim4;
 static int state = 0;
+
+FlashParams flashParams;
 
 /* Private function prototypes -----------------------------------------------*/
 static void SystemClock_Config(void);
@@ -216,6 +220,9 @@ int main(void)
 	/* Configure the system clock to 100 MHz */
 	SystemClock_Config();
 
+	/* Unlock the Flash Program Erase controller */
+	HAL_FLASH_Unlock();
+
 	/* Add your application code here
 	 */
 
@@ -223,12 +230,27 @@ int main(void)
 	MX_GPIO_Init();
 	MX_SPI2_Init();
 
+	/* EEPROM Emulation Init */
+	if( EE_Init() != EE_OK)
+	{
+		Error_Handler();
+	}
+	flashInit(&flashParams);
+
 	//SSD1306 Display Initialization
 	ssd1306_Init();
 	//ssd1306_test_all();
 
 	//NB-2023-S Sensor Initialization
 	HardwareInit();
+
+	/* EEPROM EMulation Library Test*/
+	uint16_t array[200];
+	for(int i = 0; i < 200; i++){
+		array[i] = i;
+	}
+	flashWriteSomeVAR(&flashParams, array, 200);
+	flashReadEverything(&flashParams);
 
 	/* Initialize NBDevices library */
 	iResult = NBDevicesInitializeA(NULL, NULL, NULL, 0);

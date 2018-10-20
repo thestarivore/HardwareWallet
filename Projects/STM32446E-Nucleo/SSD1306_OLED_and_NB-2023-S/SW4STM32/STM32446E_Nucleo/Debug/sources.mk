@@ -18,6 +18,7 @@ SUBDIRS := \
 Drivers/CMSIS \
 Drivers/STM32F4xx_HAL_Driver \
 Example/SW4STM32 \
+Example/User/EEPROM_Emulation \
 Example/User/NB-2023-S \
 Example/User/SSD1306_OLED \
 Example/User \
